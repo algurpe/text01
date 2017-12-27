@@ -2,3 +2,4 @@ line 1
 line 2
 line 3 from local before fetch changes from GitHub
 line 4 new changes from upstream
+I don't like swetting
